@@ -1,4 +1,4 @@
-#include <Arduino.h> //using an Arduino Nano
+#include <Arduino.h> //Arduino Nano used
 #include <Wire.h>
 #include <RTClib.h>
 #include <U8g2lib.h>
