@@ -8,3 +8,6 @@ test/README
 lib/README
 include/README
 .vscode/extensions.json
+.gitignore
+.travis.yml
+platformio.ini
